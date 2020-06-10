@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#link_button{
+    /* margin-left: 450px; */
+    float: right;
+}
+
+.search-bar{
+    background: #0C7BC0;
+}
+
+.search-bar #search-container{
+    padding-top: 10px;
+}
+
+#center-container{
+    padding-bottom: 10px;
+}
+
+#body-section{
+    display: flex;
+}
+
+#body-aside{
+    width: 70%;
+}
+
+#body-article{
+    width: 30%;
+}
+
+.learn-title{
+    text-align: center;
+}
+
+.learn-describe{
+    text-align: center;
+}
+
+.learn{
+    background: #F39944;
+}
+
